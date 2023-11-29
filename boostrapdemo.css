@@ -1,6 +1,18 @@
- .blue-border{
+body {
+   height: 100vh;
+}
+
+.blue-border{
     border: 5px blue dashed;
  }
- .green-border{
+.green-border{
     border: 5px green solid;
  }
+.red-border{
+   border: 5px red dotted;
+}
+
+.max-height{
+   height: 100%;
+}
+
